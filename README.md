@@ -1,4 +1,4 @@
-## Hi there 👋
+## Tengo una gran pasion en el ambito del desarrollo de paginas web, estoy inicializando en esto, y en lo que llevo he atravesado un grandioso progreso respecto al aprendizaje adquirido, mi meta es maximizar este conocimiento y aprovecharlo de la mejor manera posible, sea asi, con la creación de programas innovadores.
 
 <!--
 **Angel6107/Angel6107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
